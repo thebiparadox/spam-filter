@@ -1,2 +1,1 @@
-# spam-filter
-Created a spam filter for Bad Website's bootcamp
+Created a spam filter for Bad Website's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-regular-expressions-by-building-a-spam-filter/step-1)
